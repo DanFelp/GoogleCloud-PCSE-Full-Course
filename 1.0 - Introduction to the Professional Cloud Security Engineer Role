@@ -1,5 +1,27 @@
-O que faz um professional Cloud Security Engineer?
+## Introduction to the Professional Cloud Security Engineer Role
 
-* Permite que as organizações desenhem e implementem esquemas de segurança e infraestrutura com o Google Cloud
-* Design, develops e administra a estrutura de segurança com o Google Cloud Technologies
+
+
+O que faz um Google Cloud Security Engineer?
+
+* Permite que as organizações tenham o design e implementem ambientes com a infraestrutura do Google Cloud
+* Desenha, desenvolve e administra a segurança da infraestrutura utilizando as tecnologias de segurança do Google Cloud
+
+
+
+O que deve saber?
+
+* Identity and access management
+* Definir estruturas organizacionais e políticas
+* Usar o Google Cloud para proteger dados
+* Configurar segurança de rede
+* Coletar e analisar Google Cloud Logs
+* Administrar resposta de incidentes
+* Aplicar e entender a dinâmica de regulação.
+
+
+
+É importante saber que a documentação está em cloud.google.com/docs
+
+
 
